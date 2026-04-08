@@ -1,0 +1,13 @@
+# Python
+runner/__pycache__/
+runner/venv/
+runner/*.pyc
+
+# TypeScript
+cli/node_modules/
+cli/dist/
+cli/reports/
+
+# Shared
+reports/
+.env
